@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-This is the Lost Ones wiki. Click around on the graph below to explore. 
+This is the Lost Ones wiki. Click around on the graph below to explore. See #published for all published pages. 
 
 To contribute:
 - DM me and I'll make the edits for you.
