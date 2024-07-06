@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-This is a quick repository I set up for Lost Ones. Click around on the graph below to explore. 
+This is the Lost Ones wiki. Click around on the graph below to explore. 
 
 To contribute:
 - DM me and I'll make the edits for you.
